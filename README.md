@@ -1,4 +1,4 @@
-<h2> Hi, I'm <a href="lukehouge.com">Luke!</a></h2>
+<h2> Hi, I'm <a href="https://www.lukehouge.com">Luke!</a></h2>
 
 <p><em>👨‍🎓 Student at UW Madison</em></p>
 <p><em>🧑‍💻 Studying Computer Engineering and Computer Science</em></p>
