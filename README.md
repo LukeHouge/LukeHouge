@@ -29,50 +29,11 @@ const luke = {
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.6%20million%20lines%20of%20code-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 118 Contributions in the Year 2020
- > 
-> 📦 1.7 MB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 18 Public Repositories
- > 
-> 🔑 4 Private Repositories 
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    87 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.9% 
-🌆 Daytime    212 commits    █████████░░░░░░░░░░░░░░░░   38.76% 
-🌃 Evening    208 commits    █████████░░░░░░░░░░░░░░░░   38.03% 
-🌙 Night      40 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.31%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       85 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.54% 
-Tuesday      144 commits    ██████░░░░░░░░░░░░░░░░░░░   26.33% 
-Wednesday    62 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.33% 
-Thursday     86 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.72% 
-Friday       45 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.23% 
-Saturday     62 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.33% 
-Sunday       63 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.52%
-
-```
-
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: America/Chicago
-
 💬 Programming Languages: 
 JavaScript               55 mins             ██████████████░░░░░░░░░░░   56.66% 
 HTML                     29 mins             ███████░░░░░░░░░░░░░░░░░░   30.47% 
@@ -99,10 +60,6 @@ HTML                     3 repos             ████░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://github.com/LukeHouge/LukeHouge/blob/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
