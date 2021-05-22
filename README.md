@@ -35,14 +35,13 @@ const luke = {
 
 ```text
 💬 Programming Languages: 
-HTML                     1 min               ███████████████████░░░░░░   78.21% 
-JavaScript               0 secs              █████░░░░░░░░░░░░░░░░░░░░   21.79%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
