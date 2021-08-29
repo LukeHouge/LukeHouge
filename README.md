@@ -35,13 +35,13 @@ const luke = {
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 18 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 18 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 18 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -58,5 +58,5 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2021
+ Last Updated on 29/08/2021
 <!--END_SECTION:waka-->
