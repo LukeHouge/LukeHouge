@@ -12,7 +12,7 @@
 
 ```javascript
 const luke = {
-    code: ["Java", "JS", "HTML", "CSS", "Python", "C"],
+    code: ["Java", "JS/TS", "HTML", "CSS", "Python", "C"],
     tools: ["Node", "Spring", "Angular", "RxJs", "NgRx", "Redux", "React", "Electron", "Gradle"],
     interests: ["full stack development", "networking", "devOps", "web dev", "photography"],
     technologies: {
