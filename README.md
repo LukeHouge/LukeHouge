@@ -2,7 +2,7 @@
 
 <p><em>👨‍🎓 Student at UW Madison</em></p>
 <p><em>🧑‍💻 Studying Computer Engineering and Computer Science</em></p>
-<p><em>⌨️ Student Systems Administrator at <a href="https://csl.cs.wisc.edu/">Computer Systems Lab</a></em></p>
+<p><em>⌨️ SWE Intern at Thomson Reuters</em></p>
 <p><em>🚆  <a href="https://badgerloop.com">Badgerloop</a> Website Lead</em></p>
 
 
@@ -13,12 +13,12 @@
 ```javascript
 const luke = {
     code: ["Java", "JS", "HTML", "CSS", "Python", "C"],
-    tools: ["Node", "React", "Electron", "Spring", "Gradle"],
+    tools: ["Node", "Spring", "Angular", "RxJs", "NgRx", "Redux", "React", "Electron", "Gradle"],
     interests: ["full stack development", "networking", "devOps", "web dev", "photography"],
     technologies: {
-        devOps: ["Kubernetes", "Docker🐳", "Helm", "Jenkins", "ELK Stack"],
-        databases: ["mongo", "MySql"],
-        misc: ["vmWare ESXi", "Grafana", "Matlab", "Prometheus", "Rancher", "Cisco"]
+        devOps: ["Kubernetes", "Docker🐳", "Jenkins", "Helm", "ELK Stack"],
+        databases: ["DynamoDB", "Mongo", "MySql", "Oracle"],
+        misc: ["vmWare ESXi", "Grafana", "Matlab", "Prometheus", "Pendo", "Rancher", "Cisco"]
     },
 };
 ```
